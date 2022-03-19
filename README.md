@@ -25,8 +25,3 @@
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=igorgll&show_icons=true&locale=en" alt="igorgll" />
 </div>
-
-##
-  
- 
-  
