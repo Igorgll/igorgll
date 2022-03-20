@@ -12,7 +12,7 @@
 
 - 📫 Mande-me um email :) **igorlimagn@gmail.com**
 
-- 🗄️ Meu linkedin [https://www.linkedin.com/in/igor-gon%C3%A7alves-lima-25371422a/]
+- 🗄️ Meu linkedin https://www.linkedin.com/in/igor-gon%C3%A7alves-lima-25371422a/
 
 
 <h3 align="left">Tecnologias:</h3>
