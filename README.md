@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgll&label=Profile%20views&color=0e75b6&style=flat" alt="igorgll" /> </p>
 
-- 🔭 Projeto que estou trabalhando no momento [aGenTIMove](https://github.com/Igorgll/aGenTIMove)
-
-- 🌱 Atualmente estudando **JAVA ,HTML, CSS, JavaScript, Angular, bootstrap, TypeScript**
+- 🌱 Atualmente estudando **JAVA, JavaScript, NodeJs, Angular, React, React Native, Tailwind, TypeScript**
 
 - 👨‍💻 Portfolio dos meus projetos [https://github.com/Igorgll?tab=repositories](https://github.com/Igorgll)
 
