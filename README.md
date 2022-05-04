@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estudando **JAVA, JavaScript, NodeJs, Angular, React, React Native, Tailwind, TypeScript**
 
-- 👨‍💻 Portfolio dos meus projetos [https://github.com/Igorgll?tab=repositories](https://portfolioigorgll.netlify.app/)
+- 👨‍💻 Portfolio dos meus projetos [https://portfolioigorgll.netlify.app/ ](https://portfolioigorgll.netlify.app/)
 
 - 📫 Mande-me um email :) **igorlimagn@gmail.com**
 
