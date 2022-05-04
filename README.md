@@ -6,11 +6,11 @@
 
 - 🌱 Atualmente estudando **JAVA, JavaScript, NodeJs, Angular, React, React Native, Tailwind, TypeScript**
 
-- 👨‍💻 Portfolio dos meus projetos [https://github.com/Igorgll?tab=repositories](https://github.com/Igorgll)
+- 👨‍💻 Portfolio dos meus projetos [https://github.com/Igorgll?tab=repositories](https://portfolioigorgll.netlify.app/)
 
 - 📫 Mande-me um email :) **igorlimagn@gmail.com**
 
-- 🗄️ Meu linkedin https://www.linkedin.com/in/igor-gon%C3%A7alves-lima-25371422a/
+- 🗄️ Meu linkedin https://www.linkedin.com/in/igorgll/
 
 
 <h3 align="left">Tecnologias:</h3>
