@@ -1,16 +1,16 @@
-<h1 align="center">Olá 👋 Me chamo Igor</h1>
-<h3 align="center">Apaixonado por programação</h3>
+<h1 align="center">Hi 👋 I'm Igor</h1>
+<h3 align="center">In love with programming <3</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgll&label=Profile%20views&color=0e75b6&style=flat" alt="igorgll" /> </p>
 
-- 🌱 Atualmente estudando **JAVA, JavaScript, NodeJs, Angular, React, React Native, Tailwind, TypeScript**
+- 🌱 Studying **JAVA, JavaScript, NodeJs, Angular, React, Tailwind, TypeScript**
 
-- 👨‍💻 Portfolio com meus projetos: [https://portfolioigorgll.netlify.app/ ](https://portfolioigorgll.netlify.app/)
+- 👨‍💻 My portfolio: [https://portfolioigorgll.netlify.app/ ](https://portfolioigorgll.netlify.app/)
 
-- 📫 Mande-me um email :) **igorlimagn@gmail.com**
+- 📫 Hit me with an email :) **igorlimagn@gmail.com**
 
-- 🗄️ Meu linkedin https://www.linkedin.com/in/igorgll/
+- 🗄️ My linkedin https://www.linkedin.com/in/igorgll/
 
 
 <h3 align="left">Tecnologias:</h3>
