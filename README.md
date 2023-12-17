@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgll&label=Profile%20views&color=0e75b6&style=flat" alt="igorgll" /> </p>
 
 <div align="center">
+<img src="my-gifs/giphy.gif" width="62.5%" />
+</div>
+
+<div align="center">
     <a href="https://open.spotify.com/user/Igão">
       <img src="https://novatorem-one-chi.vercel.app/api/spotify" alt="Spotify">
     </a>
