@@ -6,3 +6,5 @@
   <div align="center">
     <img src="https://github.com/Igorgll/igorgll/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Github 3D stats" width="100%" height="100%"/>
   </div>
+
+  [![Spotify](https://novatorem-one-chi.vercel.app/api/spotify)](https://open.spotify.com/user/Igão)
