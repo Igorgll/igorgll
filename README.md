@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgll&label=Profile%20views&color=0e75b6&style=flat" alt="igorgll" /> </p>
 
+<div align="center">
+  <img src="https://imgur.com/nDLTfsJ.gif" alt="Cat nodding head" width="55%"/>
+    <a href="https://open.spotify.com/user/Igão">
+      <img src="https://novatorem-one-chi.vercel.app/api/spotify" alt="Spotify">
+    </a>
+</div>
+
   <div align="center">
     <img src="https://github.com/Igorgll/igorgll/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Github 3D stats" width="100%" height="100%"/>
   </div>
-
-  <p align="center">
-  <a href="https://open.spotify.com/user/Igão">
-    <img src="https://novatorem-one-chi.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</p>
