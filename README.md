@@ -12,7 +12,7 @@
     </td>
     <td>
       <a href="https://open.spotify.com/user/e1pa7nb6dy9rlllk2rcmc57vm">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=30981b&bar_color_cover=true" alt="Spotify">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=default&show_offline=false&background_color=0d111a&interchange=false&bar_color_cover=true" alt="Spotify">
       </a>
     </td>
   </tr>
