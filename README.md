@@ -6,11 +6,12 @@
 <table align="center">
   <tr>
     <strong>🎧 Listening to: </strong>
+    <p></p>
     <td>
     <p></p>
       <img src="my-gifs/jake.gif" width="100%" height="100%" alt="Chris Bopping Head" />
       <a href="https://open.spotify.com/user/e1pa7nb6dy9rlllk2rcmc57vm">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d111a&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="160%">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d111a&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="160%">
       </a>
     </td>
   </tr>
