@@ -11,7 +11,7 @@
     <p></p>
       <img src="my-gifs/jake.gif" width="60%" height="100%" alt="Chris Bopping Head" />
       <a href="https://open.spotify.com/user/e1pa7nb6dy9rlllk2rcmc57vm">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d111a&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="60%">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=e1pa7nb6dy9rlllk2rcmc57vm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d111a&interchange=false&bar_color=b9b9b9&bar_color_cover=false" alt="Spotify" width="60%">
       </a>
     </td>
   </tr>
