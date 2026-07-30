@@ -8,7 +8,7 @@
     <p></p>
     <td align="center">
     <p></p>
-      <img src="my-gifs/jake.gif" width="60%" height="100%" alt="Chris Bopping Head" />
+      <img src="my-gifs/kid-dancing.gif" width="60%" height="100%" alt="Chris Bopping Head" />
     </td>
   </tr>
 </table>
