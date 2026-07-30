@@ -5,7 +5,6 @@
 
 <table align="center">
   <tr>
-    <strong>🎧 Listening to: </strong>
     <p></p>
     <td align="center">
     <p></p>
